@@ -2430,10 +2430,14 @@ footer {
     #newsletter-form input {
         padding: 10px 20px;
         height: 40px;
+        width: 300px;
     }
 
     #newsletter-form button {
         font-size: 12px;
         height: 100%;
     }
+}
+.verify-overlay{
+    display:none !important;
 }
